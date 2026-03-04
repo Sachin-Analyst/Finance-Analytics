@@ -53,8 +53,11 @@ To explore or modify this Excel project:
 -Navigate to the Report folder in the repository and Review those reports and Start to perform analysis by creating report
 
 
+---
+
 ## Note: Due to the large file size and complex data modeling of the Excel workbook To maintain repository performance, the source Excel solution is not included in the main branch. The project methodology and results are instead fully documented through high-fidelity PDF reports, showcasing the Advanced Excel Pivot Tables and Fiscal Tracking Systems developed during the analysis
 
+---
 
 ## Usage
 ### What You Can Explore
