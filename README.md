@@ -7,7 +7,9 @@ This project establishes a comprehensive financial intelligence framework for At
 ## Table of contents
 
 - [Introduction](#introduction)  
-- [Project Description](#project-description)  
+- [Project Description](#project-description)
+- [Folder Structure](#Folder-Structure)
+- [Key features](#Key-features)
 - [Installation](#installation)  
 - [Usage](#usage)  
 - [License](#license)
@@ -26,6 +28,15 @@ This project establishes a comprehensive financial intelligence framework for At
 ## Project Description
 
 This project establishes a comprehensive financial intelligence framework for AtliQ Hardwares, transitioning the organization from manual data tracking to a centralized, automated analysis of global profitability. By utilizing Advanced Excel and Pivot Tables, the analysis evaluates business health across multiple fiscal years (2019–2021) to identify critical trends in revenue growth and margin fluctuations.
+
+---
+
+## Folder Structure
+- *Raw_Data* - The actual  files and data I used to build the project.
+- *Report* - The finalized analysis so you can see the results in formate PDF
+- *Solution* The final results in the function added as the format by Screen Recorded
+
+---
 
 ## Key features
 - Global Financial Performance Tracking
