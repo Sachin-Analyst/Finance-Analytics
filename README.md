@@ -34,7 +34,7 @@ This project establishes a comprehensive financial intelligence framework for At
 ## Folder Structure
 - *Raw_Data* - The actual  files and data I used to build the project.
 - *Report* - The finalized analysis so you can see the results in formate PDF
-- *Solution* The final results in the function added as the format by Screen Recorded
+- *Solution* - The final results in the function added as the format by Screen Recorded
 
 ---
 
