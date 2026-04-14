@@ -68,7 +68,7 @@ To explore or modify this Excel project:
 
 ## Note
 
-Due to the large file size and complex data modeling of the Excel workbook To maintain repository performance, the source Excel solution is not included in the main branch. The project methodology and results are instead fully documented through high-fidelity PDF reports, showcasing the Advanced Excel Pivot Tables and Fiscal Tracking Systems developed during the analysis
+Due to the large file size and complex data modeling of the Excel workbook To maintain repository performance, the source Excel Solution File is not included in the main branch but Screen Recorded is added and the project methodology and results are instead fully documented through high-fidelity PDF reports, showcasing the Advanced Excel Pivot Tables and Fiscal Tracking Systems developed during the analysis
 
 ---
 
